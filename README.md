@@ -2,7 +2,7 @@
 
 ## :man_technologist:	Full Stack Engineer & Data Scientist
 
-I'm a software engineer with a background in data science. My coding journey begain 6-years ago with Python and has since evolved to include machine learning and full-stack development. I've worked for various companies, from government agencies to growing startups, and have been involved projects requiring data analytics, predictive modeling, and application development. I graduated from New York University in 2016, and continued to pursue my passion in programming by earning certificates from General Assembly's Software Engineering Immersive program and Data Science program at the MIT Schwarzman College of Computing. My goal is to use data to drive innovation in the products I build as I remain committed to continuous growth in the dynamic field of technology.
+I'm a software engineer with a background in data science. My coding journey begain 6-years ago with Python and has since evolved to include machine learning and full-stack development. I've worked for various companies, from government agencies to growing startups, and have been involved in projects requiring data analytics, predictive modeling, and application development. I graduated from New York University in 2016, and continued to pursue my passion in programming by earning certificates from General Assembly's Software Engineering Immersive program and Data Science program at the MIT Schwarzman College of Computing. My goal is to use data to drive innovation in the products I build as I remain committed to continuous growth in the dynamic field of technology.
 
 * :earth_americas: I'm based in :statue_of_liberty: New York, NY & :cactus: Gilbert, Arizona
 * :computer: You can contact me on [LinkedIn](https://www.linkedin.com/in/andrewlew91/)
@@ -42,8 +42,8 @@ I'm a software engineer with a background in data science. My coding journey beg
 
 ### Stats
 
+<a href="https://github.com/anjoo91" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjoo91&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 <a href="http://www.github.com/anjoo91"><img src="https://github-readme-stats.vercel.app/api?username=anjoo91&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="anjoo91's GitHub stats" /></a>
 
 <a href="http://www.github.com/anjoo91"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anjoo91&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/anjoo91" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjoo91&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
