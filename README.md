@@ -1,6 +1,6 @@
 # Hi! My name is Andrew Lew ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-## Full Stack Engineer & Data Scientist
+## :man_technologist:	Full Stack Engineer & Data Scientist
 
 I'm a software engineer with a background in data science. My coding journey begain 6-years ago with Python and has since evolved to include machine learning and full-stack development. I've worked for various companies, from government agencies to growing startups, and have been involved projects requiring data analytics, predictive modeling, and application development. I graduated from New York University in 2016, and continued to pursue my passion in programming by earning certificates from General Assembly's Software Engineering Immersive program and Data Science program at the MIT Schwarzman College of Computing. My goal is to use data to drive innovation in the products I build as I remain committed to continuous growth in the dynamic field of technology.
 
